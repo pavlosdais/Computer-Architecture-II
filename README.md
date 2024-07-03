@@ -6,8 +6,8 @@ Created a program (using the [QtMips](https://github.com/cvut/QtMips) simulator)
 - The output of the program.
 
 Using these pieces of information we can uniquely identify the configuration that the microprocessor uses for:
-- Data hazard control
-- Control hazard control
+- Data Hazards control
+- Control Hazards control
 
 ## [Assignment 2](https://github.com/pavlosdais/Computer-Architecture-II/tree/main/assignment2)
 Created a program that efficiently calculates the result of `X = X + A*B`. Where X, A & B are matrices.
